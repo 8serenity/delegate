@@ -1,0 +1,6 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.pdb
